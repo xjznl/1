@@ -448,8 +448,3 @@ HOST-SUFFIX,news.iadsdk.apple.com,Proxy
 
 
 FINAL,PROXY
-
-[URL Rewrite]
-^http://(www.)?google.cn https://www.google.com 302
-
-# By Moshel @ https://hzy.pw/
